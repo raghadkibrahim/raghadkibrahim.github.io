@@ -5,8 +5,19 @@ title: "CV"
 ---
 
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="CV" %}
-{% endif %}
+### Education
+**BSc. Honours in Applied Mathematics**
+_York Universiy_  
+Sep 2017 - Aug 2021  
+
+### Work Experience
+
+
+
+### Projects
+
+
+### Certifications
+
+
+### Skills
