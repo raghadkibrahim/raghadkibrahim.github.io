@@ -1,6 +1,6 @@
 title: "Raghad K. Ibrahim"
 author: "Raghad"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "math"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,16 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
+  - {file: "index.html", title: "Home, icon: home}
+  - {file: "cv.html", title: "CV"}
+  - {file: "projects.html", title: "Projects"}
+  - {file: "contact.html", title: "Contact Me"}
   - {file: "CV.html", title: "CV"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:raghadkibrahim@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/raghadkibrahim"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
