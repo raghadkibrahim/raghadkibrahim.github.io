@@ -7,9 +7,3 @@ I am a mathematician at heart,  specializing in Data Science, Machine Learning, 
 
 Behind the data is a story, and I want to tell that story.
 
-
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="" %}
-{% endif %}
