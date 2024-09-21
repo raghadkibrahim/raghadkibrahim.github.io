@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: " "
 ---
 
 I am a mathematician at heart,  specializing in Data Science, Machine Learning, Business Intelligence, & AI/ML, and a passion for teaching mathematics. 
