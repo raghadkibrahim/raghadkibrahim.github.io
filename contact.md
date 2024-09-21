@@ -4,9 +4,6 @@ permalink: /contact/
 title: "Contact Me"
 ---
 
+You can reach out to me at 
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Contact Me" %}
-{% endif %}
+raghadkibrahim@gmail.com
