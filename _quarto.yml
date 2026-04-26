@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Raghad Ibrahim"
+  site-url: https://raghadkibrahim.github.io
   description: "Mathematician | Researcher | Educator"
   favicon: assets/favicon.ico
 
