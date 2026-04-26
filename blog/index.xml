@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Raghad Ibrahim</title>
+<link>https://raghadkibrahim.github.io/blog/</link>
+<atom:link href="https://raghadkibrahim.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Mathematician | Researcher | Educator</description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Fri, 25 Apr 2025 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to my blog</title>
+  <link>https://raghadkibrahim.github.io/blog/posts/2025-04-26-welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is the first post on my blog, so it seems worth saying a few words about what this space is for.</p>
+<p>I study mathematics. Most of what that means, day to day, is reading — working through proofs, getting stuck, going back, understanding something a little better than you did before. It’s a slow and private process, and there’s not much obvious output to show for it while it’s happening.</p>
+<p>This blog is partly an attempt to make that process a little more visible, and partly a way of forcing myself to write. There is a certain kind of understanding you only arrive at when you try to explain something to someone else — I’m hoping this is useful for that.</p>
+<section id="what-ill-write-about" class="level2">
+<h2 class="anchored" data-anchor-id="what-ill-write-about">What I’ll write about</h2>
+<p>A few things I have in mind:</p>
+<ul>
+<li><strong>Expository notes</strong> on mathematics I’m learning — definitions, theorems, examples, and the kind of context that textbooks sometimes skip.</li>
+<li><strong>Problems I find interesting</strong> — not necessarily hard ones, just ones where the solution surprised me or where I think the journey is worth documenting.</li>
+<li><strong>Reflections on studying</strong> — what’s working, what isn’t, and things I wish someone had told me earlier.</li>
+</ul>
+<p>I’ll also write about [any other topics you’d like — tutoring, books, etc.].</p>
+</section>
+<section id="a-small-example" class="level2">
+<h2 class="anchored" data-anchor-id="a-small-example">A small example</h2>
+<p>To set the tone, here is a fact I find genuinely delightful. The sum of the first <img src="https://latex.codecogs.com/png.latex?n"> odd numbers is always a perfect square:</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0A1%20+%203%20+%205%20+%20%5Ccdots%20+%20(2n%20-%201)%20=%20n%5E2%0A"></p>
+<p>You can see why this is true without any algebra at all — just draw it:</p>
+<pre><code>■           (n = 1, sum = 1)
+■ □
+□ □         (n = 2, sum = 4)
+■ □ □
+□ □ □
+□ □ □       (n = 3, sum = 9)</code></pre>
+<p>Each new odd number adds an L-shaped border to the previous square, and the result is always a square. That’s a proof — and a beautiful one.</p>
+<p>This is the kind of thing I hope to write more of.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://raghadkibrahim.github.io/blog/posts/2025-04-26-welcome/</guid>
+  <pubDate>Fri, 25 Apr 2025 21:00:00 GMT</pubDate>
+  <media:content url="https://raghadkibrahim.github.io/blog/posts/2025-04-26-welcome/thumbnail.png" medium="image" type="image/png"/>
+</item>
+</channel>
+</rss>
