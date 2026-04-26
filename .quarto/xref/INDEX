@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "11c4bff2"
+  },
+  "research.qmd": {
+    "research.html": "90517b49"
+  },
+  "about.qmd": {
+    "about.html": "8edf8989"
+  },
+  "cv.qmd": {
+    "cv.html": "5789a870"
+  },
+  "teaching.qmd": {
+    "teaching.html": "3d307413"
+  },
+  "blog/posts/2025-04-26-welcome/index.qmd": {
+    "index.html": "7495f3a9"
+  },
+  "blog/index.qmd": {
+    "index.html": "c85b3411"
+  }
+}

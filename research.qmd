@@ -1,0 +1,81 @@
+---
+title: "Research"
+toc: false
+---
+
+```{=html}
+<div class="about-heading-rule"></div>
+```
+
+I am in the early stages of my mathematical career, currently exploring
+the landscape of *[your broad area]* and working toward a thesis topic.
+This page will grow as my research develops — for now it reflects where
+my thinking currently stands.
+
+---
+
+## Research interests
+
+```{=html}
+<div class="interest-block">
+  <div class="interest-block-title">[Area 1 — e.g. Algebraic Topology]</div>
+  <p class="interest-block-body">
+    [2–3 sentences on what draws you to this area and what kinds of
+    questions you find compelling within it. Be specific — a concrete
+    example or open question is better than a general description.]
+  </p>
+</div>
+
+<div class="interest-block">
+  <div class="interest-block-title">[Area 2 — e.g. Differential Geometry]</div>
+  <p class="interest-block-body">
+    [2–3 sentences. What is the connection to Area 1, if any?
+    What tools or techniques here do you find most interesting?]
+  </p>
+</div>
+
+<div class="interest-block">
+  <div class="interest-block-title">[Area 3 — optional]</div>
+  <p class="interest-block-body">
+    [Remove this block entirely if two areas are enough.]
+  </p>
+</div>
+```
+
+---
+
+## Currently reading
+
+```{=html}
+<ul class="reading-list">
+
+  <li class="reading-item">
+    <span class="reading-bullet"></span>
+    <div>
+      <div class="reading-title">[Book or paper title]</div>
+      <div class="reading-author">[Author(s)]</div>
+    </div>
+  </li>
+
+  <li class="reading-item">
+    <span class="reading-bullet"></span>
+    <div>
+      <div class="reading-title">[Book or paper title]</div>
+      <div class="reading-author">[Author(s)]</div>
+    </div>
+  </li>
+
+  <li class="reading-item">
+    <span class="reading-bullet"></span>
+    <div>
+      <div class="reading-title">[Book or paper title]</div>
+      <div class="reading-author">[Author(s)]</div>
+    </div>
+  </li>
+
+</ul>
+```
+
+---
+
+*Papers and preprints will appear here as they become available.*

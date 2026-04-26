@@ -1,0 +1,42 @@
+/*-- scss:defaults --*/
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Outfit:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+
+$font-family-base:        'Lora', Georgia, serif;
+$font-family-sans-serif:  'Outfit', system-ui, sans-serif;
+$headings-font-family:    'Outfit', system-ui, sans-serif;
+$headings-font-weight:    600;
+$code-font-size:          0.875em;
+
+// Color palette
+$navy:       #1a2744;
+$navy-light: #2d3f6e;
+$gold:       #c9a84c;
+$gold-light: #e8c97a;
+$cream:      #faf8f4;
+$warm-gray:  #6b6460;
+
+$body-color:      $navy;
+$body-bg:         $cream;
+$link-color:      $navy-light;
+$link-hover-color: $gold;
+$navbar-bg:       $navy;
+$navbar-fg:       #f0ede8;
+$navbar-hl:       $gold;
+$footer-bg:       $navy;
+$footer-fg:       #b0aaa4;
+$border-color:    #e0dbd4;
+
+/*-- scss:rules --*/
+
+// CSS custom properties so styles.css can use them
+:root {
+  --navy:       #{$navy};
+  --navy-light: #{$navy-light};
+  --gold:       #{$gold};
+  --gold-light: #{$gold-light};
+  --cream:      #{$cream};
+  --warm-gray:  #{$warm-gray};
+  --border:     #e0dbd4;
+}

@@ -1,0 +1,83 @@
+---
+title: "Teaching"
+toc: false
+---
+
+```{=html}
+<div class="about-heading-rule"></div>
+```
+
+I find that explaining mathematics to others sharpens my own understanding
+more than almost anything else. I have been tutoring since [year], working
+with students one-on-one at both the high school and undergraduate level.
+
+---
+
+## Tutoring
+
+```{=html}
+<div class="tutor-card">
+  <div class="tutor-icon">
+    <svg viewBox="0 0 24 24" stroke-width="1.8">
+      <path d="M12 14l9-5-9-5-9 5 9 5z"/>
+      <path d="M12 14l6.16-3.422A12.08 12.08 0 0 1 18 18a12.08 12.08 0 0 1-6 1 12.08 12.08 0 0 1-6-1 12.08 12.08 0 0 1-.16-7.422L12 14z"/>
+    </svg>
+  </div>
+  <div>
+    <div class="tutor-level">University</div>
+    <div class="tutor-title">Undergraduate Tutoring — York University</div>
+    <p class="tutor-body">
+      One-on-one tutoring for undergraduate students at York University,
+      helping them build both procedural fluency and genuine conceptual
+      understanding. I focus on working through problems together rather
+      than simply demonstrating solutions.
+    </p>
+    <div class="tutor-subjects">
+      <span class="tutor-tag">Calculus I &amp; II</span>
+      <span class="tutor-tag">Linear Algebra</span>
+      <span class="tutor-tag">Real Analysis</span>
+      <span class="tutor-tag">[Add your subjects]</span>
+    </div>
+  </div>
+</div>
+
+<div class="tutor-card">
+  <div class="tutor-icon">
+    <svg viewBox="0 0 24 24" stroke-width="1.8">
+      <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
+      <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
+    </svg>
+  </div>
+  <div>
+    <div class="tutor-level">High School</div>
+    <div class="tutor-title">Private Tutoring</div>
+    <p class="tutor-body">
+      One-on-one tutoring for high school students, covering the full
+      curriculum through to final-year and pre-university level. I pay
+      particular attention to students who feel they "just aren't math
+      people" — in my experience, the issue is almost never ability.
+    </p>
+    <div class="tutor-subjects">
+      <span class="tutor-tag">Algebra</span>
+      <span class="tutor-tag">Precalculus</span>
+      <span class="tutor-tag">Calculus</span>
+      <span class="tutor-tag">Statistics</span>
+      <span class="tutor-tag">[Add your subjects]</span>
+    </div>
+  </div>
+</div>
+```
+
+---
+
+## Teaching philosophy
+
+I believe the goal of mathematical education is not to produce students
+who can execute procedures, but students who can *think* — who can sit
+with a problem they have never seen before and find a way in. In
+practice, this means I spend a lot of time asking questions rather than
+giving answers, and encouraging students to articulate why a method works
+rather than just that it works.
+
+I am always happy to hear from students looking for support.
+Feel free to [get in touch](about.qmd).

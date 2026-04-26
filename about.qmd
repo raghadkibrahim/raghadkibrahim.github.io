@@ -1,0 +1,94 @@
+---
+title: "About me"
+toc: false
+---
+
+```{=html}
+<div class="about-heading-rule"></div>
+```
+
+I am a master's student in mathematics at [University], where I am fortunate
+to be supervised by [Advisor Name]. I grew up in [City/Country], and came to
+mathematics through [a brief personal origin].
+
+What draws me to math is [something genuine]. Outside of research, I enjoy
+[hobby 1], [hobby 2], and [hobby 3].
+
+I am currently writing my thesis on *[thesis topic]*, which I expect to
+complete in [month, year].
+
+---
+
+```{=html}
+<p class="about-section-title">Research interests</p>
+<div class="interest-grid">
+  <span class="interest-pill primary">[Main area]</span>
+  <span class="interest-pill">[Area 2]</span>
+  <span class="interest-pill">[Area 3]</span>
+  <span class="interest-pill">[Area 4]</span>
+</div>
+```
+
+My current work sits at the intersection of *[Field A]* and *[Field B]*.
+Concretely, I am interested in [one or two sentences about your actual question].
+
+More broadly, I am curious about [a neighbouring area].
+
+---
+
+```{=html}
+<p class="about-section-title">Education</p>
+<ul class="edu-list">
+  <li class="edu-item">
+    <span class="edu-year">20XX –<br>present</span>
+    <div>
+      <div class="edu-degree">MSc in Mathematics</div>
+      <div class="edu-sub">[University Name]</div>
+      <div class="edu-note">Thesis: <em>[Working title]</em></div>
+      <div class="edu-note">Supervisor: [Advisor Name]</div>
+    </div>
+  </li>
+  <li class="edu-item">
+    <span class="edu-year">2017 –<br>2021</span>
+    <div>
+      <div class="edu-degree">BA in Applied Mathematics</div>
+      <div class="edu-sub">York University</div>
+      <div class="edu-note">[Grade or notable detail — optional]</div>
+    </div>
+  </li>
+</ul>
+```
+
+---
+
+```{=html}
+<p class="about-section-title">Get in touch</p>
+<div class="contact-block">
+  <div class="contact-row">
+    <svg class="contact-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <rect x="2" y="4" width="20" height="16" rx="2"/>
+      <path d="m2 7 10 7 10-7"/>
+    </svg>
+    <span class="contact-label">Email</span>
+    <span class="contact-value">
+      <a href="mailto:raghadkibrahim@gmail.com">raghadkibrahim@gmail.com</a>
+    </span>
+  </div>
+  <div class="contact-row">
+    <svg class="contact-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0z"/>
+      <circle cx="12" cy="10" r="3"/>
+    </svg>
+    <span class="contact-label">Office</span>
+    <span class="contact-value">Room [XXX], [Building], [University]</span>
+  </div>
+  <div class="contact-row">
+    <svg class="contact-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="12" cy="12" r="10"/>
+      <polyline points="12 6 12 12 16 14"/>
+    </svg>
+    <span class="contact-label">Hours</span>
+    <span class="contact-value">[Days and times], or by appointment</span>
+  </div>
+</div>
+```

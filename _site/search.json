@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\n  MSc Mathematics — [University Name]\n  RaghadIbrahim\n  \nI am a master’s student in mathematics at [University], working under the supervision of [Advisor Name]. My interests lie in [Area 1] and [Area 2], with a particular focus on [one compelling sentence about your research].\nPreviously, I completed my undergraduate degree in [subject] at [Institution]. I am currently writing my thesis on [thesis topic].\n  \n\n    \n      \n        \n        \n      \n      Email\n    \n\n    \n      \n        \n        \n        \n        \n      \n      CV\n    \n\n    \n      \n        \n      \n      GitHub\n    \n\n    \n      \n        \n      \n      Scholar\n    \n\n  \n\n  \n    \n      \n      \n    \n    [City, Country]"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I am in the early stages of my mathematical career, currently exploring the landscape of [your broad area] and working toward a thesis topic. This page will grow as my research develops — for now it reflects where my thinking currently stands."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am a master’s student in mathematics at [University], where I am fortunate to be supervised by [Advisor Name]. I grew up in [City/Country], and came to mathematics through [a brief personal origin].\nWhat draws me to math is [something genuine]. Outside of research, I enjoy [hobby 1], [hobby 2], and [hobby 3].\nI am currently writing my thesis on [thesis topic], which I expect to complete in [month, year].\n\nResearch interests\n\n  [Main area]\n  [Area 2]\n  [Area 3]\n  [Area 4]\n\nMy current work sits at the intersection of [Field A] and [Field B]. Concretely, I am interested in [one or two sentences about your actual question].\nMore broadly, I am curious about [a neighbouring area].\n\nEducation\n\n  \n    20XX –present\n    \n      MSc in Mathematics\n      [University Name]\n      Thesis: [Working title]\n      Supervisor: [Advisor Name]\n    \n  \n  \n    2017 –2021\n    \n      BA in Applied Mathematics\n      York University\n      [Grade or notable detail — optional]\n    \n  \n\n\nGet in touch\n\n  \n    \n      \n      \n    \n    Email\n    \n      raghadkibrahim@gmail.com\n    \n  \n  \n    \n      \n      \n    \n    Office\n    Room [XXX], [Building], [University]\n  \n  \n    \n      \n      \n    \n    Hours\n    [Days and times], or by appointment"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I find that explaining mathematics to others sharpens my own understanding more than almost anything else. I have been tutoring since [year], working with students one-on-one at both the high school and undergraduate level."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research interests",
+    "text": "Research interests\n\n  [Area 1 — e.g. Algebraic Topology]\n  \n    [2–3 sentences on what draws you to this area and what kinds of\n    questions you find compelling within it. Be specific — a concrete\n    example or open question is better than a general description.]\n  \n\n\n\n  [Area 2 — e.g. Differential Geometry]\n  \n    [2–3 sentences. What is the connection to Area 1, if any?\n    What tools or techniques here do you find most interesting?]\n  \n\n\n\n  [Area 3 — optional]\n  \n    [Remove this block entirely if two areas are enough.]"
+  },
+  {
+    "objectID": "research.html#currently-reading",
+    "href": "research.html#currently-reading",
+    "title": "Research",
+    "section": "Currently reading",
+    "text": "Currently reading\n\n\n  \n    \n    \n      [Book or paper title]\n      [Author(s)]\n    \n  \n\n  \n    \n    \n      [Book or paper title]\n      [Author(s)]\n    \n  \n\n  \n    \n    \n      [Book or paper title]\n      [Author(s)]\n    \n  \n\n\n\nPapers and preprints will appear here as they become available."
+  },
+  {
+    "objectID": "teaching.html#tutoring",
+    "href": "teaching.html#tutoring",
+    "title": "Teaching",
+    "section": "Tutoring",
+    "text": "Tutoring\n\n  \n    \n      \n      \n    \n  \n  \n    University\n    Undergraduate Tutoring — York University\n    \n      One-on-one tutoring for undergraduate students at York University,\n      helping them build both procedural fluency and genuine conceptual\n      understanding. I focus on working through problems together rather\n      than simply demonstrating solutions.\n    \n    \n      Calculus I & II\n      Linear Algebra\n      Real Analysis\n      [Add your subjects]\n    \n  \n\n\n\n  \n    \n      \n      \n    \n  \n  \n    High School\n    Private Tutoring\n    \n      One-on-one tutoring for high school students, covering the full\n      curriculum through to final-year and pre-university level. I pay\n      particular attention to students who feel they \"just aren't math\n      people\" — in my experience, the issue is almost never ability.\n    \n    \n      Algebra\n      Precalculus\n      Calculus\n      Statistics\n      [Add your subjects]"
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching philosophy",
+    "text": "Teaching philosophy\nI believe the goal of mathematical education is not to produce students who can execute procedures, but students who can think — who can sit with a problem they have never seen before and find a way in. In practice, this means I spend a lot of time asking questions rather than giving answers, and encouraging students to articulate why a method works rather than just that it works.\nI am always happy to hear from students looking for support. Feel free to get in touch."
+  },
+  {
+    "objectID": "blog/posts/2025-04-26-welcome/index.html",
+    "href": "blog/posts/2025-04-26-welcome/index.html",
+    "title": "Welcome to my blog",
+    "section": "",
+    "text": "This is the first post on my blog, so it seems worth saying a few words about what this space is for.\nI study mathematics. Most of what that means, day to day, is reading — working through proofs, getting stuck, going back, understanding something a little better than you did before. It’s a slow and private process, and there’s not much obvious output to show for it while it’s happening.\nThis blog is partly an attempt to make that process a little more visible, and partly a way of forcing myself to write. There is a certain kind of understanding you only arrive at when you try to explain something to someone else — I’m hoping this is useful for that."
+  },
+  {
+    "objectID": "blog/posts/2025-04-26-welcome/index.html#what-ill-write-about",
+    "href": "blog/posts/2025-04-26-welcome/index.html#what-ill-write-about",
+    "title": "Welcome to my blog",
+    "section": "What I’ll write about",
+    "text": "What I’ll write about\nA few things I have in mind:\n\nExpository notes on mathematics I’m learning — definitions, theorems, examples, and the kind of context that textbooks sometimes skip.\nProblems I find interesting — not necessarily hard ones, just ones where the solution surprised me or where I think the journey is worth documenting.\nReflections on studying — what’s working, what isn’t, and things I wish someone had told me earlier.\n\nI’ll also write about [any other topics you’d like — tutoring, books, etc.]."
+  },
+  {
+    "objectID": "blog/posts/2025-04-26-welcome/index.html#a-small-example",
+    "href": "blog/posts/2025-04-26-welcome/index.html#a-small-example",
+    "title": "Welcome to my blog",
+    "section": "A small example",
+    "text": "A small example\nTo set the tone, here is a fact I find genuinely delightful. The sum of the first \\(n\\) odd numbers is always a perfect square:\n\\[\n1 + 3 + 5 + \\cdots + (2n - 1) = n^2\n\\]\nYou can see why this is true without any algebra at all — just draw it:\n■           (n = 1, sum = 1)\n■ □\n□ □         (n = 2, sum = 4)\n■ □ □\n□ □ □\n□ □ □       (n = 3, sum = 9)\nEach new odd number adds an L-shaped border to the previous square, and the result is always a square. That’s a proof — and a beautiful one.\nThis is the kind of thing I hope to write more of."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Notes on mathematics, learning, and things I find interesting.\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog\n\n\n\nmeta\n\n\n\nA first post — what this space is for and what you can expect to find here.\n\n\n\n\n\nApr 26, 2025\n\n2 min\n\n\n\n\nNo matching items"
+  }
+]

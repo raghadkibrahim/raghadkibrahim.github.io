@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Raghad Ibrahim"
+  description: "Mathematician | Researcher | Educator"
+  favicon: assets/favicon.ico
+
+  navbar:
+    logo: assets/logo.svg
+    logo-alt: "RI"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: blog/index.qmd
+        text: Blog
+
+    right:
+      - href: cv.qmd
+        text: CV
+      - icon: github
+        href: https://github.com/raghadkibrahim
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:raghadkibrahim@gmail.com
+        aria-label: Email
+
+  page-footer:
+    left: "© 2025 Raghad Ibrahim"
+    center: "Built with [Quarto](https://quarto.org)"
+    right:
+      - icon: github
+        href: https://github.com/raghadkibrahim
+
+  open-graph:
+    title: "Raghad Ibrahim — Mathematician"
+    description: "Personal website of Raghad Ibrahim, mathematician specializing in ..."
+    image: assets/og-image.png
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    code-fold: true
+    code-tools: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    anchor-sections: true
+    citations-hover: true
+    footnotes-hover: true
+    mainfont: "Lora"
+    monofont: "JetBrains Mono"
+
+execute:
+  freeze: auto
+  echo: true
+  warning: false

@@ -1,0 +1,20 @@
+---
+title: "Blog"
+toc: false
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  fields: [date, title, description, categories, reading-time]
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  feed: true
+page-layout: full
+---
+
+```{=html}
+<div class="about-heading-rule"></div>
+```
+
+Notes on mathematics, learning, and things I find interesting.
