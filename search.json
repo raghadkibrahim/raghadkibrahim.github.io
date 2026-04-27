@@ -11,14 +11,14 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "Notes on mathematics, learning, and things I find interesting.\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog\n\n\n\nmeta\n\n\n\nA first post — what this space is for and what you can expect to find here.\n\n\n\n\n\nApr 26, 2025\n\n2 min\n\n\n\n\nNo matching items"
+    "text": "Notes on mathematics, learning, and things I find interesting.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog\n\n2 min\n\n\nmeta\n\n\n\nA first post: what this space is for and what you can expect to find here.\n\n\n\nApr 26, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "Code\n\n\n\n\n\n  MSc Mathematics — [University Name]\n  RaghadIbrahim\n  \nI am a master’s student in mathematics at [University], working under the supervision of [Advisor Name]. My interests lie in [Area 1] and [Area 2], with a particular focus on [one compelling sentence about your research].\nPreviously, I completed my undergraduate degree in [subject] at [Institution]. I am currently writing my thesis on [thesis topic].\n  \n\n    \n      \n        \n        \n      \n      Email\n    \n\n    \n      \n        \n        \n        \n        \n      \n      CV\n    \n\n    \n      \n        \n      \n      GitHub\n    \n\n    \n      \n        \n      \n      Scholar\n    \n\n  \n\n  \n    \n      \n      \n    \n    [City, Country]"
+    "text": "Code\n\n\n\n\n\n  MSc Mathematics — [University Name]\n  RaghadIbrahim\n  \nPreviously, I completed my undergraduate degree in Applied Mathematics at York University. I am currently a Data Scientist at.\n  \n\n    \n      \n        \n        \n      \n      Email\n    \n\n    \n      \n        \n        \n        \n        \n      \n      CV\n    \n\n    \n      \n        \n      \n      GitHub\n    \n\n    \n      \n        \n      \n      Scholar\n    \n\n  \n\n  \n    \n      \n      \n    \n    Toronto, Canada"
   },
   {
     "objectID": "teaching.html",
@@ -67,21 +67,21 @@
     "href": "blog/posts/2025-04-26-welcome/index.html",
     "title": "Welcome to my blog",
     "section": "",
-    "text": "This is the first post on my blog, so it seems worth saying a few words about what this space is for.\nI study mathematics. Most of what that means, day to day, is reading — working through proofs, getting stuck, going back, understanding something a little better than you did before. It’s a slow and private process, and there’s not much obvious output to show for it while it’s happening.\nThis blog is partly an attempt to make that process a little more visible, and partly a way of forcing myself to write. There is a certain kind of understanding you only arrive at when you try to explain something to someone else — I’m hoping this is useful for that."
+    "text": "This is the first post on my blog, so it seems worth saying a few words about what this space is for.\nI study mathematics. Most of what that means, day to day, is a lot of reading, working through proofs, getting stuck, going back, understanding something a little better than you did before. It’s a slow and private process, and there’s not much obvious output to show for it while it’s happening.\nThis blog is partly an attempt to make that process a little more visible, and partly a way of forcing myself to write. There is a certain kind of understanding you only arrive at when you try to explain something to someone else and I’m hoping this is useful for that."
   },
   {
     "objectID": "blog/posts/2025-04-26-welcome/index.html#what-ill-write-about",
     "href": "blog/posts/2025-04-26-welcome/index.html#what-ill-write-about",
     "title": "Welcome to my blog",
     "section": "What I’ll write about",
-    "text": "What I’ll write about\nA few things I have in mind:\n\nExpository notes on mathematics I’m learning — definitions, theorems, examples, and the kind of context that textbooks sometimes skip.\nProblems I find interesting — not necessarily hard ones, just ones where the solution surprised me or where I think the journey is worth documenting.\nReflections on studying — what’s working, what isn’t, and things I wish someone had told me earlier.\n\nI’ll also write about [any other topics you’d like — tutoring, books, etc.]."
+    "text": "What I’ll write about\nA few things I have in mind:\n\nExpository notes on mathematics I’m learning, definitions, theorems, examples, and the kind of context that textbooks sometimes skip.\nProblems I find interesting, not necessarily hard ones, just ones where the solution surprised me or where I think the journey is worth documenting.\nReflections on studying, what’s working, what isn’t, and things I wish someone had told me earlier.\n\nI’ll also write about my data science projects, books I’m reading, and anything interesting I come across."
   },
   {
     "objectID": "blog/posts/2025-04-26-welcome/index.html#a-small-example",
     "href": "blog/posts/2025-04-26-welcome/index.html#a-small-example",
     "title": "Welcome to my blog",
     "section": "A small example",
-    "text": "A small example\nTo set the tone, here is a fact I find genuinely delightful. The sum of the first \\(n\\) odd numbers is always a perfect square:\n\\[\n1 + 3 + 5 + \\cdots + (2n - 1) = n^2\n\\]\nYou can see why this is true without any algebra at all — just draw it:\n■           (n = 1, sum = 1)\n■ □\n□ □         (n = 2, sum = 4)\n■ □ □\n□ □ □\n□ □ □       (n = 3, sum = 9)\nEach new odd number adds an L-shaped border to the previous square, and the result is always a square. That’s a proof — and a beautiful one.\nThis is the kind of thing I hope to write more of."
+    "text": "A small example\nTo set the tone, here is a fact I find genuinely delightful. The sum of the first \\(n\\) odd numbers is always a perfect square:\n\\[\n1 + 3 + 5 + \\cdots + (2n - 1) = n^2\n\\]\nYou can see why this is true without any algebra at all, you can just draw it:\n■           (n = 1, sum = 1)\n\n■ □\n□ □         (n = 2, sum = 4)\n\n■ □ □\n□ □ □\n□ □ □       (n = 3, sum = 9)\nEach new odd number adds an L-shaped border to the previous square, and the result is always a square. That’s a beautiful proof.\nThis is the kind of thing I hope to write more of."
   },
   {
     "objectID": "about.html",
