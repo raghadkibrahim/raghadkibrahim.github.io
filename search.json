@@ -46,14 +46,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "I am in the early stages of my mathematical career, currently exploring the landscape of [your broad area] and working toward a thesis topic. This page will grow as my research develops — for now it reflects where my thinking currently stands."
+    "text": "I am in the early stages of my mathematical career, currently exploring the landscape of Logic and Set Theory and working toward a thesis topic. This page will grow as my research develops, for now it reflects where my thinking currently stands."
   },
   {
     "objectID": "research.html#research-interests",
     "href": "research.html#research-interests",
     "title": "Research",
     "section": "Research interests",
-    "text": "Research interests\n\n  [Area 1 — e.g. Algebraic Topology]\n  \n    [2–3 sentences on what draws you to this area and what kinds of\n    questions you find compelling within it. Be specific — a concrete\n    example or open question is better than a general description.]\n  \n\n\n\n  [Area 2 — e.g. Differential Geometry]\n  \n    [2–3 sentences. What is the connection to Area 1, if any?\n    What tools or techniques here do you find most interesting?]\n  \n\n\n\n  [Area 3 — optional]\n  \n    [Remove this block entirely if two areas are enough.]"
+    "text": "Research interests\n\n  Combinatorics\n  \n    *[Discuss Combinatorics]*\n  \n\n\n\n  Logic\n  \n    *[Discuss Logic]*\n  \n\n\n\n  Set Theory\n  \n    *[Discuss Set Theory]*"
   },
   {
     "objectID": "research.html#currently-reading",
@@ -88,6 +88,6 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "I am a master’s student in mathematics at [University], where I am fortunate to be supervised by [Advisor Name]. I grew up in [City/Country], and came to mathematics through [a brief personal origin].\nWhat draws me to math is [something genuine]. Outside of research, I enjoy [hobby 1], [hobby 2], and [hobby 3].\nI am currently writing my thesis on [thesis topic], which I expect to complete in [month, year].\n\nResearch interests\n\n  [Main area]\n  [Area 2]\n  [Area 3]\n  [Area 4]\n\nMy current work sits at the intersection of [Field A] and [Field B]. Concretely, I am interested in [one or two sentences about your actual question].\nMore broadly, I am curious about [a neighbouring area].\n\nEducation\n\n  \n    20XX –present\n    \n      MSc in Mathematics\n      [University Name]\n      Thesis: [Working title]\n      Supervisor: [Advisor Name]\n    \n  \n  \n    2017 –2021\n    \n      BA in Applied Mathematics\n      York University\n      [Grade or notable detail — optional]\n    \n  \n\n\nGet in touch\n\n  \n    \n      \n      \n    \n    Email\n    \n      raghadkibrahim@gmail.com\n    \n  \n  \n    \n      \n      \n    \n    Office\n    Room [XXX], [Building], [University]\n  \n  \n    \n      \n      \n    \n    Hours\n    [Days and times], or by appointment"
+    "text": "I am currently a Data Scientist at .. I will be starting my master’s in pure mathematics at University of Toronto.\n\nResearch interests\n\n  Combinatorics\n  Logic\n  Set Theory\n  Probability Theory\n\nMy current work sits at the intersection of Combinatorics, Logic, and Set theory.\n\nEducation\n\n  \n    2027 –present\n    \n      MSc in Mathematics\n      University of Toronto\n      Thesis: [Working title]\n      Supervisor: [Advisor Name]\n    \n  \n  \n    2017 –2021\n    \n      BA Honors in Applied Mathematics\n      York University\n      B+\n    \n  \n\n\nGet in touch\n\n  \n    \n      \n      \n    \n    Email\n    \n      raghadkibrahim@gmail.com\n    \n  \n  \n    \n      \n      \n    \n    Office\n    Room [XXX], [Building], [University]\n  \n  \n    \n      \n      \n    \n    Hours\n    [Days and times], or by appointment"
   }
 ]
